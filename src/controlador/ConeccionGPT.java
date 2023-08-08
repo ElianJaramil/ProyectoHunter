@@ -17,7 +17,7 @@ public class ConeccionGPT {
     private final String apiKey;
 
     public ConeccionGPT(String apiKey) {
-        this.apiKey = "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";
+        this.apiKey = "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";
     }
 
     public String obtenerRespuestaChatGPT(String userMessage) {
